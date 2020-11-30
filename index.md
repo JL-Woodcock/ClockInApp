@@ -16,7 +16,7 @@ ClockIn also collects aggregate, anonymous statistics, such as the percentage of
 
 #### Usage
 We use the information we collect to operate and improve our website, apps, and customer support.
-We do not share personal information with outside parties except to the extent necessary to accomplish HoursTracker's functionality. We may share anonymous, aggregate statistics with outside parties, such as how many time entries are created per month in the app.
+We do not share personal information with outside parties except to the extent necessary to accomplish the App's functionality. We may share anonymous, aggregate statistics with outside parties, such as how many time entries are created per month in the app.
 
 Your Consent
 
